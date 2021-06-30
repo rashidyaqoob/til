@@ -11,5 +11,5 @@ export default function Menu({ title, links }) {
 					</li>)}
 			</ul>
 		</div>
-		)
+	)
 }
